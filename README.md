@@ -11,7 +11,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://twitter.com/olcayyasincan" target="blank"><img align=" center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olcayyasincan" height="30" genişlik ="40" /></a>
+<a href="https://twitter.com/olcayyasincan" target="blank"><img align=" center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="olcayyasincan" height="30" genişlik ="40" /></a>
 <a href="https://stackoverflow.com/users/18261575" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18261575" height="30" width="40" /></a>
 <a href="https://fb.com/yasincan olcay" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- jeneratör/master/src/images/icons/Social/facebook.svg" alt="yasincan olcay" height="30" width="40" /></a>
 <a href="https://instagram.com /yasincanolcay" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt="yasincanolcay" height="30" width="40" /></a>
