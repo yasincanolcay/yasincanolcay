@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasincanolcay" alt="yasincanolcay" /></ a> </p>
 
-<p align="left"> <a href="https://twitter.com/olcayyasincan" target="blank"><img src="https://img.shields.io/twitter/follow/olcayyasincan?logo=twitter&style=for-the-badge" alt="olcayyasincan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DevoneSoft" target="blank"><img src="https://img.shields.io/twitter/follow/DevoneSoft?logo=twitter&style=for-the-badge" alt="DevoneSoft" /></a> </p>
 
-- 🔭 Şu anda lexi [Lexi Assistant](https:/ /github.com/yasincanolcay/LexiallVersion.git)
+- 🔭 Şu anda ... Sosyal medya uygulamam üzerine çalışıyorum
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://twitter.com/olcayyasincan" target="blank"><img align=" center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="olcayyasincan" height="30" genişlik ="40" /></a>
-<a href="https://fb.com/yasincan olcay" target="boş"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="yasincan olcay" height="30" width="40" /></a>
+<a href="https://twitter.com/DevoneSoft" target="blank"><img align=" center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="DevoneSoft" height="30" genişlik ="40" /></a>
+<a href="https://fb.com/devonesoft" target="boş"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" alt="yasincan olcay" height="30" width="40" /></a>
 <a href="https://instagram.com/yasincanolcay" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasincanolcay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/ucj8ueczip_sskhzj2ntjflg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucj8ueczip_sskhzj2ntjflg" height= "30" width="40" /></a>
 <a href="https://discord.com/invite/qHGnGPjVVm" target="boş"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hthttps://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svgtps://discord.com/invite/qHGnGPjVVm" height="30" width="40" /></a>
