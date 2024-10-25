@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀I'm currently working on a social media application<br>🌍I'm looking to collaborate on my social media project<br>😎I'm looking for sponsors to support my project<br>📘I'm learning more flutter<br>💬You can ask me about mobile applications<br>👬I'm ready to work together
+🚀I'm currently working on a social media application ![PlayStore](https://play.google.com/store/apps/details?id=com.devonesoft.app.otakuverse)<br>🌍I'm looking to collaborate on my social media project<br>😎I'm looking for sponsors to support my project<br>📘I'm learning more flutter<br>💬You can ask me about mobile applications<br>👬I'm ready to work together
 
 
 ## 🌐 Socials:
